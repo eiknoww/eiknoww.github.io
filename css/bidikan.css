@@ -1,0 +1,12 @@
+h1 .conten{
+    font-family: Mukta !important;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 145.4%;
+    /* identical to box height, or 73px */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
