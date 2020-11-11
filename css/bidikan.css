@@ -10,3 +10,56 @@ h1 .conten{
 
     color: #FFFFFF;
 }
+
+#coba{
+    font-family: Encode Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 175.4%;
+color: #999999;
+}
+
+.kirian{
+    margin-left:12px;
+}
+
+.sub-title-bidikan{
+    font-family: Encode Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    /* identical to box height, or 200% */
+
+    text-align: center;
+
+    color: #111111;
+}
+
+.title-bidikan{
+    font-family: Mukta-Regular;
+    src: url(asset/Mukta-Regular.ttf);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+    /* identical to box height, or 54px */
+
+    text-align: center;
+
+    color: #0A86E3;
+}
+
+.title-logo-bidikan{
+    font-family: Mukta-Regular;
+    src: url(asset/Mukta-Regular.ttf);
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 160%;
+    /* or 30px */
+
+    text-align: center;
+
+    color: #3499D6;
+}
